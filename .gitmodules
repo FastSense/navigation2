@@ -1,0 +1,3 @@
+[submodule "nav2_grid_map/grid_map"]
+	path = nav2_grid_map/grid_map
+	url = https://github.com/FastSense/grid_map.git
